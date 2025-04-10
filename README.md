@@ -12,7 +12,7 @@ Built with a robust technology stack, the project incorporates React for creatin
 This solution is designed to enhance customer satisfaction by simulating the experience of a knowledgeable in-store assistant, making online shopping more interactive, personalized, and efficient. The project holds immense potential for e-commerce platforms aiming to boost customer engagement and conversion rates.
 
 Key Features:
-
+--------------
 a) AI Shopping Assistant
 Real-time chat interface
 Voice input/output support
