@@ -54,6 +54,31 @@ Backend Architecture
 Database
 -MangoDB ,PostgreSQL or Supabase
 
+ Features
+ --------
+🔹 Conversational Interface: Chatbot-style interaction for product discovery.
+
+🔹 Voice Recognition: Hands-free shopping experience using voice input.
+
+🔹 Smart Filters: AI-driven product filtering based on user preferences.
+
+🔹 Authentication: Role-based login system (Admin & Core User).
+
+🔹 Product Management (Admin): Add/update/delete product listings.
+
+🔹 Responsive Design: Works across devices and browsers.
+
+ Future Enhancements
+ -------------------
+Integration with actual e-commerce APIs (Amazon, Flipkart).
+Multi-language support.
+Recommendation engine based on user history.
+Voice-based checkout and payment options.
+
+ShopSmart transforms online shopping into an intelligent, engaging, and user-friendly experience. By combining AI, voice interaction, and a smooth user interface, it redefines how users discover and choose products in an e-commerce environment.
+
+
+
 
 
 
